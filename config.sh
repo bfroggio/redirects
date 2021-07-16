@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-export site="bfrogg.io"
+export site="bfroggio.com"
 
